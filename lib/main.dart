@@ -46,7 +46,8 @@ class _MyHomePageState extends State<MyHomePage> {
         (index[0][1] == index[1][1] &&index[0][1] == index[2][1] &&index[0][1] != '') ||
         (index[0][2] == index[1][2] &&index[0][2] == index[2][2] && index[0][2] != '') ||
         (index[0][0] == index[1][1] && index[0][0] == index[2][2] &&index[0][0] != '') ||
-        (index[0][2] == index[1][1] &&  index[0][2] == index[2][0] &&index[0][2] != '')) {
+        (index[0][2] == index[1][1] &&  index[0][2] == index[2][0] &&index[0][2] != '') ||
+        (index[0][0] == index[1][0] &&index[0][0] == index[2][0] &&index[0][0] != '')){
       return true;
     }
     return false;
