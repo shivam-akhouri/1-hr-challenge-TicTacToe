@@ -2,6 +2,8 @@
 
 ### Made with just 100 lines of flutter code 
 
+## Framework used: Flutter
+
 # Installation
 
 ## Step1: 
