@@ -1,4 +1,4 @@
-# tictactoe
+# Tic Tac Toe
 
 ### Made with just 100 lines of flutter code 
 
